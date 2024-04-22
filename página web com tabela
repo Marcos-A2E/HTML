@@ -1,0 +1,17 @@
+<HTML><TITLE>mesclagem</TITLE>
+<HEAD><H1>mesclagem</HEAD>
+<P>
+<BODY BGCOLOR="yellow">
+<TABLE BORDER="1"WIDTH="800"HEIGHT="600">
+<TR>
+<TD COLSPAN="4">mesclagem de tabela</TD></TR>
+<TR>
+<TD>GITHUB</TD>
+<TD>COMMIT</TD>
+<TD>MERGE</TD>
+</TR>
+<TR>
+<TD>VERSIONAMENTO</TD>
+<TD>pROGRAMAÇÃO</TD>
+<TD>TRABALHO EM EQUIPE</TD>
+</BODY></HTML>
