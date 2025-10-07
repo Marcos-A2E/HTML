@@ -1,0 +1,16 @@
+@spacing: 16px;
+@font-size: 14px;
+
+.button {
+  padding: @spacing;
+  font-size: @font-size;
+  background-color: fade(#3498db, 50%);
+  &:hover {
+    background-color: fade(#3498db, 70%);
+  }
+}
+
+.primary-button {
+  .button;
+  color: white;
+}

@@ -1,0 +1,18 @@
+@use 'sass:color';
+$primary-color:#3498db;
+$secondary-color:#2ecc71;
+@mixin rounded($radius){
+    border-radius: $radius;
+}
+nav{
+    background-color: $primary-color;
+    ul{
+        list-style: none;
+        li {
+            color: $secondary-color;
+            &:hover{
+                color: color.adjust($secondary-color, $lightness: 10%);
+        }
+    }
+}
+}
